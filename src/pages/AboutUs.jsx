@@ -6,11 +6,11 @@ const About = () => {
       <div className="container px-4 mx-auto max-w-3xl">
         <div className="py-12">
           <h2 className="text-3xl sm:text-[40px] mb-3">About Me</h2>
-          <p className="font-light text-[17px]">
+          {/* <p className="font-light text-[17px]">
             I'm a passionate and innovative Frontend developer with a flair for
             creating exceptional user experiences. I love to do vercetile work
             and give the design and minimal outlook throught my code.
-          </p>
+          </p> */}
           <img
             src={own}
             alt="own"

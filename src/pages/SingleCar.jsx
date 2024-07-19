@@ -133,7 +133,7 @@ const SingleCar = () => {
                       <input
                         id="name"
                         type="text"
-                        placeholder="Shafayetur Rahman"
+                        placeholder="Chinmoy Dutta"
                         required
                         className="w-full bg-transparent border border-white border-opacity-45 rounded-md h-12 mt-2 px-3 py-2"
                       />
@@ -146,7 +146,7 @@ const SingleCar = () => {
                       <input
                         id="email"
                         type="email"
-                        placeholder="11shafayet@gmail.com"
+                        placeholder="chinmoy201920@gmail.com"
                         required
                         className="w-full bg-transparent border border-white border-opacity-45 rounded-md h-12 mt-2 px-3 py-2"
                       />
@@ -160,7 +160,7 @@ const SingleCar = () => {
                         id="phone"
                         type="tel"
                         required
-                        placeholder="+8801638-719578"
+                        placeholder="+918822094486"
                         className="w-full bg-transparent border border-white border-opacity-45 rounded-md h-12 mt-2 px-3 py-2"
                       />
                     </div>
@@ -182,7 +182,7 @@ const SingleCar = () => {
                       type="submit"
                       className="w-full bg-primary py-3 px-4 rounded-md"
                     >
-                      Contact With Us
+                      Feel Free to Connect
                     </button>
                   </form>
                 </div>

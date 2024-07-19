@@ -22,10 +22,10 @@ const Form = () => {
 
     emailjs
       .sendForm(
-        'service_bv20ho9',
-        'template_hdke6ed',
+        'service_xzn1w4y',
+        'template_g1tr9ro',
         form.current,
-        'c1tYBgkzdr0uStumq'
+        'ZGpWtGMx5EsxsI3f1'
       )
       .then(
         (result) => {

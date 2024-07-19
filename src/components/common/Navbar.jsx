@@ -42,11 +42,11 @@ const Navbar = () => {
           <div className="flex flex-col sm:flex-row justify-center sm:justify-end items-center gap-x-8">
             <p className="flex justify-center items-center tracking-widest gap-x-2">
               <FaPhoneAlt />
-              +8801638-719578
+              +9188220-94486
             </p>
             <p className="flex justify-center items-center tracking-widest gap-x-2">
               <FaEnvelope />
-              11shafayet@gmail.com
+              chinmoy201920@gmail.com
             </p>
           </div>
         </div>

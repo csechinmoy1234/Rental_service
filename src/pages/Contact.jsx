@@ -9,7 +9,7 @@ const Contact = () => {
         <p className="font-extralight text-gray-400 mb-8">
           If you'd like to talk about a potential project or just say hi, send
           me a message or email me at{' '}
-          <span className="text-white font-medium">11shafayet@gmail.com</span>!
+          <span className="text-white font-medium">chinmoy201920@gmail.com</span>!
         </p>
         <Form />
         <Social center={true} marginTop={true} />
